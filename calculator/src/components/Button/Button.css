@@ -1,0 +1,23 @@
+button {
+    border: none;
+    background-color: blue;
+    font-size: 24px;
+    color: white;
+    font-weight: bold;
+    border: radius 10px;
+    outline: none;
+}
+
+button:hover {
+    background-color: aqua;
+}
+
+.eqauls {
+    grid-column: 3/5;
+    background-color: red;
+}
+
+
+.equals:hover {
+    background-color: red;
+}
